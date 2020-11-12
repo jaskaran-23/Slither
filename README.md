@@ -7,6 +7,7 @@ Game rules:-
 2. Down arrow key to move down.
 3. Right arrow key to move right.
 4. Left arrow key to move left.
+
 Your primary aim is to maximise your number of points by eating apples(virtually :D)
 But there is a twist in the game.
 If the snake's head collides with snake's body then the game is over.
